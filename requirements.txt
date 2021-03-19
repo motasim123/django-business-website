@@ -31,7 +31,7 @@ jsmin==2.2.2
 oauthlib==3.0.1
 pep8==1.7.1
 phonenumbers==8.11.5
-pillow==7.0.0
+pillow==8.1.1
 psycopg2==2.8.4
 purl==1.5
 pycodestyle==2.5.0
